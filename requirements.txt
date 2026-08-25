@@ -2,3 +2,8 @@ langchain_openai
 dotenv
 langchain_huggingface
 sentence_transformers
+grandalf
+langchain-text-splitters
+youtube-transcript-api
+langchain_community
+langchain_text_splitters
